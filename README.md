@@ -2,6 +2,12 @@
 
 A modern, interactive chatbot flow builder built with React, TypeScript, and React Flow. This application allows users to create and manage chatbot conversation flows through an intuitive drag-and-drop interface.
 
+## 🚀 Live Demo
+
+**🌐 Try it live:** [https://chatbot-flow-builder-c3pv55scp-laxmikant2002s-projects.vercel.app](https://chatbot-flow-builder-c3pv55scp-laxmikant2002s-projects.vercel.app)
+
+The application is deployed on Vercel and ready to use! Experience all the features including drag-and-drop node creation, flow validation, and real-time editing.
+
 ## Features
 
 ### Core Functionality
@@ -71,6 +77,30 @@ npm start
 - `npm test` - Launches the test runner
 - `npm run build` - Builds the app for production
 - `npm run eject` - Ejects from Create React App (one-way operation)
+
+## 🚀 Deployment
+
+This project is deployed on **Vercel** for optimal performance and reliability.
+
+### Live Application
+- **Production URL**: [https://chatbot-flow-builder-c3pv55scp-laxmikant2002s-projects.vercel.app](https://chatbot-flow-builder-c3pv55scp-laxmikant2002s-projects.vercel.app)
+- **Platform**: Vercel
+- **Build Status**: ✅ Active
+- **Auto-Deploy**: Enabled from main branch
+
+### Deploy Your Own
+To deploy your own instance:
+
+1. **Fork this repository**
+2. **Connect to Vercel**:
+   ```bash
+   npm i -g vercel
+   vercel login
+   vercel
+   ```
+3. **Follow the prompts** and your app will be live!
+
+The project includes a `vercel.json` configuration file optimized for React applications.
 
 ## Usage
 
